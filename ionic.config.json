@@ -1,5 +1,7 @@
 {
   "name": "project_microservice",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
